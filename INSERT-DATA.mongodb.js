@@ -17,3 +17,9 @@ db['libri-collection'].insertOne(
         "imagem":"/livros/cavernas_aco.jpg"
     },
 );
+
+db['libri-collection'].insertMany(
+
+
+    
+)
